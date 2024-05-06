@@ -1,1 +1,1 @@
-# PowerBI-Projects
+# SQL Projects
